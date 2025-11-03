@@ -1,1 +1,2 @@
 # Decimal-clock-
+Time is measured in duodecimal units. All other modern measurement such as length, volume etc are measured in decimal unit.For ease of calculation decimal system is considered better.  
