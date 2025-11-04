@@ -39,3 +39,6 @@ Time is measured in duodecimal units. All other modern measurement such as lengt
 - VCC → **5V**
 - GND → **GND**
 
+## Screenshot
+![Decimal clock on Wokwi](images/image.png)
+
