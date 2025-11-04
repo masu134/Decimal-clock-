@@ -1,3 +1,7 @@
+//Project Decimal clock
+//Author Masoom Abhani
+
+
 #include <Wire.h>
 #include "RTClib.h"
 #include <Adafruit_GFX.h>
