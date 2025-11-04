@@ -10,3 +10,32 @@ Time is measured in duodecimal units. All other modern measurement such as lengt
 - 1 Nimesha = 0.864 second
 - 1 Muhurt = 86.4 second
 - 1 Prahar = 8640 second
+
+## Components used to make digital decimal clock
+- Arduino uno
+- RTC (real time clock) DS1307
+- LCD TFT Display ILI9341
+- Jumper wires
+
+## Libraries used
+- RTClib
+- Adafruit ILI9341
+- Adafruit GFX Library
+
+## Wiring (UNO)
+**TFT (ILI9341 SPI)**
+- CS → **D10**
+- DC → **D8**
+- RST → **D9**
+- SCK → **D13**
+- MOSI → **D11**
+- MISO → **D12**
+- VCC → **5V**
+- GND → **GND**
+
+**RTC (DS1307)**
+- SDA → **A4**
+- SCL → **A5**
+- VCC → **5V**
+- GND → **GND**
+
