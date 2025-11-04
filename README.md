@@ -42,3 +42,4 @@ Time is measured in duodecimal units. All other modern measurement such as lengt
 ## Screenshot
 ![Decimal clock on Wokwi](images/image.png)
 
+![Decimal clock on Wokwi](images/screenshot2.png)
