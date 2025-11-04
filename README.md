@@ -40,7 +40,11 @@ Currently Time is measured in duodecimal units(Base 12). All other modern measur
 - VCC → **5V**
 - GND → **GND**
 
+## Here is the link of Decimal clock
+(https://wokwi.com/projects/446617480644897793)
+
 ## Screenshot
 ![Decimal clock on Wokwi](images/image.png)
 
-![Decimal clock on Wokwi](images/Screenshot2.png)
+![Decimal clock on Wokwi](images/image2.png)
+
