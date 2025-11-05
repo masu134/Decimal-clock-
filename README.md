@@ -1,5 +1,6 @@
 # Decimal-clock-
-Currently Time is measured in duodecimal units(Base 12) and sexagesimal unit(Base 60) . All other modern measurement such as length, volume etc are measured in decimal unit(Base 10) .For ease of calculation decimal system is considered better.In this decimal clock I have used ancient unit of time to make a modern day decimal clock.This ancient units are Prahar(similar to hour), Muhurat(similar to minute) and nimesha (similar to second).
+Time is traditionally measured using sexagesimal (base-60) units (hours:minutes:seconds), while most other measurements use decimal (base-10). This project is an Arduino-based decimal clock (with a Wokwi simulation) that adapts ancient Indian time units—Prahar (~hour), Muhurat (~minute), and Nimesha (~second)—into a modern decimal system for easier calculation.
+
 
 
 ## Proposed time unit
