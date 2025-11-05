@@ -48,5 +48,5 @@ Time is traditionally measured using sexagesimal (base-60) units (hours:minutes:
 ## Screenshot
 ![Decimal clock on Wokwi](images/image.png)
 
-![Decimal clock on Wokwi](images/image2.png)
+![Decimal clock on Wokwi](images/Untitled design (1).png)
 
