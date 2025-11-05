@@ -1,5 +1,5 @@
 # Decimal-clock-
-Currently Time is measured in duodecimal units(Base 12). All other modern measurement such as length, volume etc are measured in decimal unit(Base 10) .For ease of calculation decimal system is considered better.In this decimal clock I have used ancient unit of time to make a modern day decimal clock.This ancient units are Prahar(similar to hour), Muhurat(similar to minute) and nimesha (similar to second).
+Currently Time is measured in duodecimal units(Base 12) and sexagesimal unit(Base 60) . All other modern measurement such as length, volume etc are measured in decimal unit(Base 10) .For ease of calculation decimal system is considered better.In this decimal clock I have used ancient unit of time to make a modern day decimal clock.This ancient units are Prahar(similar to hour), Muhurat(similar to minute) and nimesha (similar to second).
 
 
 ## Proposed time unit
